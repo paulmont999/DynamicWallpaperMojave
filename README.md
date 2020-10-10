@@ -32,4 +32,4 @@ https://github.com/zzag/plasma5-wallpapers-dynamic/blob/master/src/tools/builder
 
 ![Wallpaper a las 8:40 P.M.](https://github.com/paulmont999/DynamicWallpaperMojave/blob/main/PRUEBA%205.png)
 
-<b> Próximamente wall paper dinámico de macOS Catalina... </b>
+<b> Próximamente wallpaper dinámico de macOS Catalina... </b>
