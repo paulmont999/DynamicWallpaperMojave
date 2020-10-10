@@ -1,0 +1,114 @@
+[
+      {
+        "SolarAzimuth": 171,
+        "SolarElevation": 81,
+        "CrossFade": true,
+        "Time": "00:00",
+        "FileName": "mojave_dynamic_15.jpeg"
+    },
+     {
+        "SolarAzimuth": 193,
+        "SolarElevation": 103,
+        "CrossFade": true,
+        "Time": "01:30",
+        "FileName": "mojave_dynamic_16.jpeg"
+    },
+     {
+        "SolarAzimuth": 216,
+        "SolarElevation": 126,
+        "CrossFade": true,
+        "Time": "03:00",
+        "FileName": "mojave_dynamic_1.jpeg"
+    },
+    {
+        "SolarAzimuth": 238,
+        "SolarElevation": 148,
+        "CrossFade": true,
+        "Time": "04:30",
+        "FileName": "mojave_dynamic_2.jpeg"
+    },
+     {
+        "SolarAzimuth": 261,
+        "SolarElevation": 171,
+        "CrossFade": true,
+        "Time": "06:00",
+        "FileName": "mojave_dynamic_3.jpeg"
+    },
+     {
+        "SolarAzimuth": 283,
+        "SolarElevation": 193,
+        "CrossFade": true,
+        "Time": "07:30",
+        "FileName": "mojave_dynamic_4.jpeg"
+    },
+     {
+        "SolarAzimuth": 291,
+        "SolarElevation": 201,
+        "CrossFade": true,
+        "Time": "08:00",
+        "FileName": "mojave_dynamic_5.jpeg"
+    },
+     {
+        "SolarAzimuth": 313,
+        "SolarElevation": 223,
+        "CrossFade": true,
+        "Time": "09:30",
+        "FileName": "mojave_dynamic_6.jpeg"
+    },
+     {
+        "SolarAzimuth": 336,
+        "SolarElevation": 246,
+        "CrossFade": true,
+        "Time": "11:00",
+        "FileName": "mojave_dynamic_7.jpeg"
+    },
+    {
+        "SolarAzimuth": 358,
+        "SolarElevation": 268,
+        "CrossFade": true,
+        "Time": "12:30",
+        "FileName": "mojave_dynamic_8.jpeg"
+    },
+    {
+        "SolarAzimuth": 21,
+        "SolarElevation": 290,
+        "CrossFade": true,
+        "Time": "14:00",
+        "FileName": "mojave_dynamic_9.jpeg"
+    },
+    {
+        "SolarAzimuth": 43,
+        "SolarElevation": 312,
+        "CrossFade": true,
+        "Time": "15:30",
+        "FileName": "mojave_dynamic_10.jpeg"
+    },
+    {
+        "SolarAzimuth": 66,
+        "SolarElevation": 334,
+        "CrossFade": true,
+        "Time": "17:00",
+        "FileName": "mojave_dynamic_11.jpeg"
+    },
+    {
+        "SolarAzimuth": 88,
+        "SolarElevation": 356,
+        "CrossFade": true,
+        "Time": "18:30",
+        "FileName": "mojave_dynamic_12.jpeg"
+    },
+    {
+        "SolarAzimuth": 110,
+        "SolarElevation": -18,
+        "CrossFade": true,
+        "Time": "20:00",
+        "FileName": "mojave_dynamic_13.jpeg"
+    },
+    {
+        "SolarAzimuth": 132,
+        "SolarElevation": -40,
+        "CrossFade": true,
+        "Time": "21:30",
+        "FileName": "mojave_dynamic_14.jpeg"
+    }
+] 
