@@ -19,6 +19,8 @@ Y LISTO! YA TIENES TU WALLPAPER DINÁMICO DE MACOS MOJAVE.
 
 Personalmente recomiendo tener en una misma carpeta todas las fotos, el archivo ".json" y el archivo ".heic" ya que me sucedio que lo active y movi a otra ruta el ".heic" en la laptop y cuando la reinicie no cargó el wallpaper, sin embargo si esto te sucede lo único que debes hacer es irte a la configuración y borrar el wallpaper, despues localizar el archivo ".heic", lo vuelves a asignar como wallpaper y listo.
 
+El timezone de mi laptop esta ajustado a Cancún asi que puede variar un poco si lo instala alguien de otro lugar, pero lo puedes ajustar en el código.
+
 <b> ¿Quieres crear tus propios wallpapers dinámicos? </b>
 
 Aquí te paso la guia que segui para crear este de la mano del creador ZZAG:
